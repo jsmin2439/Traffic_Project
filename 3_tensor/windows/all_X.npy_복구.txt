@@ -1,0 +1,1 @@
+cat 3_tensor/windows/all_X_part_* > 3_tensor/windows/all_X.npy

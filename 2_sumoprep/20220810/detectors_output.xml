@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-09-11 23:41:30 by Eclipse SUMO GUI Version 1.24.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/Users/minjongseok/Desktop/traffic_project/2_sumoprep/20220810/bucheon.net.xml"/>
+        <route-files value="/Users/minjongseok/Desktop/traffic_project/2_sumoprep/20220810/exp.rou.xml,/Users/minjongseok/Desktop/traffic_project/2_sumoprep/20220810/demand.rou.xml"/>
+        <additional-files value="/Users/minjongseok/Desktop/traffic_project/2_sumoprep/20220810/detectors.add.xml,/Users/minjongseok/Desktop/traffic_project/2_sumoprep/20220810/edgeGroups.add.xml,/Users/minjongseok/Desktop/traffic_project/2_sumoprep/20220810/tls_plan.tll.xml"/>
+    </input>
+
+</sumoConfiguration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e2_file.xsd">
+</detector>

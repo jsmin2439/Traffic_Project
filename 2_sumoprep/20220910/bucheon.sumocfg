@@ -1,0 +1,8 @@
+<configuration>
+  <input>
+    <net-file value="bucheon.net.xml"/>
+    <route-files value="exp.rou.xml,demand.rou.xml"/>
+    <additional-files value="detectors.add.xml,edgeGroups.add.xml,tls_plan.tll.xml"/>
+  </input>
+  <time begin="0" end="86400"/>
+</configuration>
