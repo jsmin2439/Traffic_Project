@@ -1,0 +1,7 @@
+<configuration>
+  <input>
+    <net-file value="bucheon.net.xml"/>
+    <route-files value="possible_routes.rou.xml,exp.rou.xml"/>
+  </input>
+  <time begin="0" end="86400"/>
+</configuration>
